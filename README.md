@@ -12,10 +12,6 @@ This repository is part of the ML Arena family, a set of 5 dedicated repositorie
 - ML-Arena-4 - K-Means Clustering
 - ML-Arena-5 - Neural Network
 
-## Problem Focus
-
-Build and analyze a binary classification model to predict diabetes outcome.
-
 ## Dataset
 
 - File: `dataset.csv`
