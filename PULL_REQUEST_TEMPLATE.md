@@ -2,7 +2,7 @@
 
 ## Linked Issue (Required)
 
-Closes #<!-- issue-number -->
+Closes #<issue-number>
 
 ## Track (Select One)
 
@@ -17,7 +17,7 @@ Closes #<!-- issue-number -->
 
 ## What Changed
 
-<!-- Write 3 to 6 bullets describing exactly what you changed. -->
+<!-- Write 3–6 bullet points describing exactly what was changed. -->
 
 -
 -
@@ -25,7 +25,7 @@ Closes #<!-- issue-number -->
 
 ## Why This Change
 
-<!-- 1 to 3 bullets on why this helps. -->
+<!-- Add 1–3 bullet points explaining why this change is beneficial. -->
 
 -
 
@@ -37,7 +37,7 @@ Closes #<!-- issue-number -->
 
 ## Results
 
-### Metrics (Required for Library, Scratch, Optimization)
+### Metrics (Required for Library, Scratch, and Optimization)
 
 | Metric | Baseline (if available) | Current PR |
 | ------ | ------------------------ | ---------- |
@@ -45,8 +45,8 @@ Closes #<!-- issue-number -->
 
 ### Visuals / Insights
 
-<!-- Exploration: add key plots + insights. -->
-<!-- Other tracks: add useful plots (loss curve, confusion matrix, residuals, etc.) if relevant. -->
+<!-- Exploration: add key plots and insights. -->
+<!-- Other tracks: add useful plots (loss curves, confusion matrix, residuals, etc.) if relevant. -->
 
 -
 
@@ -54,7 +54,7 @@ Closes #<!-- issue-number -->
 
 1. Open the updated notebook.
 2. Run all cells from top to bottom.
-3. Confirm outputs and metrics match this PR description.
+3. Confirm the outputs and metrics match this PR description.
 
 ## Checklist
 
@@ -63,10 +63,10 @@ Closes #<!-- issue-number -->
 - [ ] Outputs (plots/tables/metrics) are visible in the notebook.
 - [ ] Random state/seed is fixed where needed.
 - [ ] No unrelated files were modified.
-- [ ] Track rules are followed.
-- [ ] For Scratch: no restricted ML model libraries were used unless issue allows.
+- [ ] Track rules have been followed.
+- [ ] For Scratch: no restricted ML model libraries were used unless the issue allows.
 - [ ] For Optimization: before-vs-after benchmark is included.
-- [ ] Linked issue is provided using Closes #...
+- [ ] A linked issue is provided using "Closes #...".
 
 ## Reviewer Notes (Optional)
 
